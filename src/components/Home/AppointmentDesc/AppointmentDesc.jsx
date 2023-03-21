@@ -15,12 +15,12 @@ const AppointmentDesc = () => {
         <h1 className="text-primary text-2xl font-bold mb-2">Appointment</h1>
         <h1 className="text-4xl font-bold mb-2">Make an appointment Today</h1>
         <p className="my-2">
-          It is a long established fact that a reader will be distracted by the
-          readable content of a page when looking at its layout. The point of
-          using Lorem Ipsumis that it has a more-or-less normal distribution of
-          letters,as opposed to using 'Content here, content here', making it
-          look like readable English. Many desktop publishing packages and web
-          page
+        Our teeth have such an important role to play in our lives.
+         They help us chew and digest food, they help us to talk and
+          speak clearly and they also give our face its shape. A 
+          smile also has other day-to-day benefits. It can give us 
+          greater confidence, as well as influence our social lives, 
+          careers and relationships.
         </p>
         <Link to="/appointment">
           <Button>Make Appointment</Button>

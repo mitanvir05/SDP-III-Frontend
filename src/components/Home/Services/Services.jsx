@@ -12,19 +12,19 @@ const Services = () => {
     {
       _id: 101,
       title: 'Fluoride Treatment',
-      desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque expedita quaerat facilis nulla illum sequi quisquam exercitationem consectetur quam natus provident quibusdam ea dignissimos sed id eveniet excepturi mollitia, et nihil dicta qui necessitatibus, repellat soluta quasi. Est quis officia, exercitationem sequi rem beatae iure?',
+      desc: 'Fluoride treatment strengthens teeth and prevents cavities by applying fluoride to the teeth through toothpaste, mouthwash, varnish, fluoridated water, or supplements.',
       img: fluoride,
     },
     {
       _id: 102,
       title: 'Cavity Filling',
-      desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque expedita quaerat facilis nulla illum sequi quisquam exercitationem consectetur quam natus provident quibusdam ea dignissimos sed id eveniet excepturi mollitia, et nihil dicta qui necessitatibus, repellat soluta quasi. Est quis officia, exercitationem sequi rem beatae iure?',
+      desc: 'Cavity filling is a dental procedure where decayed or damaged tooth material is removed and replaced with a filling material to restore function and prevent further decay.',
       img: cavity,
     },
     {
       _id: 103,
       title: 'Teeth Whitening',
-      desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque expedita quaerat facilis nulla illum sequi quisquam exercitationem consectetur quam natus provident quibusdam ea dignissimos sed id eveniet excepturi mollitia, et nihil dicta qui necessitatibus, repellat soluta quasi. Est quis officia, exercitationem sequi rem beatae iure?',
+      desc: 'Teeth whitening is a cosmetic dental procedure that uses bleaching agents to lighten the color of teeth and improve their appearance.',
       img: whitening,
     },
   ];
